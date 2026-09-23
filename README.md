@@ -1,7 +1,23 @@
 ## Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=MarocBeta)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=MarocBeta&label=Profile%20views&color=4285F4&style=flat" alt="Profile Views" />
+</p>
 
-## About me:
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=MarocBeta" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Hi+there!+%F0%9F%91%8B;I'm+Maroc+Beta;Welcome+to+my+profile!" style="max-width: 100%;"></a>
+## About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Maroc+Beta;Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
+
+## GitHub Stats:
+<p align="center">
+  <a href="https://github.com/MarocBeta">
+    <img src="https://gh-readme-stats.vercel.app/api?username=MarocBeta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+## Top Languages:
+<p align="center">
+  <a href="https://github.com/MarocBeta">
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=MarocBeta&theme=radical&layout=compact" alt="Top Languages" />
+  </a>
 </p>
