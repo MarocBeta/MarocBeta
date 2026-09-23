@@ -2,4 +2,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MarocBeta)
 
 ##About Me:
-https://www.svgviewer.dev/s/cQXLefMn
+![Profile Views]([[https://komarev.com/ghpvc/?username=MarocBeta](https://www.svgviewer.dev/s/cQXLefMn)](https://www.svgviewer.dev/s/cQXLefMn))
